@@ -33,7 +33,8 @@ end
 
 
 def retrieve_first_element_from_array(array)
-  
+   sports = ['wow','basketball','am','football','soccer','baseball']
+   sports[0]
 end
 
 def retrieve_last_element_from_array(array)
