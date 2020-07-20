@@ -43,5 +43,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+ sports = ['wow','basketball','football','soccer','baseball','arrays!']
+ sports[4] = 'totally'
 end
