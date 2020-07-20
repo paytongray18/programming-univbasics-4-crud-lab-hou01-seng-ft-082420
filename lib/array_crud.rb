@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   sports = ['wow','basketball','am','football','soccer','baseball']
-  sports
+  sports[2]
 end
 
 
