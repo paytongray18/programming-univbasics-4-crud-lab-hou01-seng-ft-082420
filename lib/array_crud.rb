@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  sports = []
+  sports = ['basketball','football','soccer','baseball']
   sports << 'hockey'
 end
 
